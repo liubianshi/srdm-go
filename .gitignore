@@ -1,0 +1,21 @@
+# Binaries
+/bin/
+/srdm
+*.exe
+*.test
+
+# Object files
+*.o
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Validation data (if user wants to ignore local json data, but I will comment it out or leave it for now unless I know for sure)
+# *.json
