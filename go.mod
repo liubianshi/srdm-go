@@ -1,6 +1,6 @@
 module srdm
 
-go 1.25.5
+go 1.25.1
 
 require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
