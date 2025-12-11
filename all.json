@@ -1,0 +1,21 @@
+[
+  {
+    "database": "test",
+    "table": "table",
+    "name": "rec1",
+    "type": "test",
+    "source": "",
+    "label": "demo",
+    "description": "",
+    "number": 0,
+    "missNumber": 0,
+    "uniqueNumber": 0,
+    "script_file": "",
+    "script_tag": "",
+    "desc_file": "",
+    "desc_tag": "",
+    "log_file": "",
+    "create_at": "2025-12-11T10:13:50.488601335+08:00",
+    "modify_at": "2025-12-11T10:13:50.488601405+08:00"
+  }
+]
