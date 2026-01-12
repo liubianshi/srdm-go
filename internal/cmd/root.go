@@ -37,7 +37,7 @@ It supports data insertion, update, deletion, viewing, extraction, query, and ex
 		var err error
 		// If flag is not set, try getting from environment variable
 		if DataRepoPath == "" {
-			DataRepoPath = os.Getenv("SRDM_DATA_REPO_PATH")
+			DataRepoPath = filepath.os.Getenv("SRDM_DATA_REPO_PATH")
 		}
 		// If env is also empty, use default path
 		if DataRepoPath == "" {
